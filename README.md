@@ -54,18 +54,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=remigiuskalimba&show_icons=true&theme=tokyonight&hide_rank=true" alt="Remigius' GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remigiuskalimba&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remigiuskalimba&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 🧢 Fun Fact
 > I once debugged a solar-powered pump while a goat watched like I owed it money.
 
