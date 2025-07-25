@@ -50,7 +50,7 @@
 
 ### 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RemigiusKalimba-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/remigiuskalimba
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RemigiusKalimba-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/remigius-kalimba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
 
