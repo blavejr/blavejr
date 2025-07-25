@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Remigius Kalimba</h1>
+<h3 align="center">Farmer • Software Engineer • Founder @ FarmLu and lufarming app 🌾</h3>
 
-<!--
-**blavejr/blavejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Coding animation"/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 I'm a Namibian software engineer and farmer on a mission to transform African agriculture through technology.  
+💻 I’ve built scalable systems across Europe, Asia, and Africa — now I’m focused on delivering tools that empower smallholder farmers with data, connectivity, and automation.
+
+---
+
+### 🔭 Currently building
+- 🚜 **lufarming** – An AI-powered farm management platform to help smallholder farmers collaborate, manage operations, and access funding by building trust with lenders through data and technology.
+- 🌞 Off-grid **solar-powered infrastructure** for internet and irrigation in rural Namibia.
+- 📱 **Offline-first mobile apps** using React Native and NestJS for environments with unstable connectivity.
+
+---
+
+### 🧠 Tech I Use
+
+- **Languages**: JavaScript, TypeScript, Python, PHP, C++, Go  
+- **Frameworks**: React, React Native, Node.js, Flask  
+- **Infra & DevOps**: Docker, AWS, GCP, GitHub Actions, CI/CD, MongoDB, PostgreSQL  
+- **AI/ML**: NLP, LangChain, Vector DBs, RAG (ongoing learning)  
+- **Tools**: Stripe, S3, Jira, Notion, Git, VSCode, Cursor
+
+---
+
+### 🌱 I’m learning
+- 🤖 Langchain, AI agents, and vector search  
+- 🇩🇪 German (for fun and to better integrate)
+
+---
+
+### 🤝 Open to collaborate on
+- Agritech tools (offline-first, solar-backed, AI-enhanced)  
+- Open-source education + infrastructure for remote communities  
+- Smart systems for animal care, irrigation, and solar energy
+
+---
+
+### 💬 Ask me about
+- 🐐 Raising goats with automated alerts  
+- 💡 Debugging solar pumps in the bush  
+- 🚰 Smart irrigation with soil sensors  
+- 🚀 Building full-stack MVPs with async teams
+
+---
+
+### 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RemigiusKalimba-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/remigiuskalimba
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=remigiuskalimba&show_icons=true&theme=tokyonight&hide_rank=true" alt="Remigius' GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remigiuskalimba&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remigiuskalimba&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🧢 Fun Fact
+> I once debugged a solar-powered pump while a goat watched like I owed it money.
+
+---
+
+### 🔥 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=remigiuskalimba&color=blue)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/remigiuskalimba/remigiuskalimba/main/wave.svg" alt="wave" />
+</p>
