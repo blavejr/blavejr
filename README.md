@@ -5,7 +5,7 @@
 
 ---
 
-🌍 I'm a Namibian software engineer and farmer on a mission to transform African agriculture through technology.  
+🌍 I'm a Namibian software engineer and farmer based in Germany and on a mission to transform African agriculture through technology.  
 💻 I’ve built scalable systems across Europe, Asia, and Africa — now I’m focused on delivering tools that empower smallholder farmers with data, connectivity, and automation.
 
 ---
